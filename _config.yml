@@ -100,9 +100,9 @@ author:
   location         : "Seoul/Korea"
   email            : "louisus1115@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:louisus1115@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:louisus1115@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://louisus.tistory.com/"
