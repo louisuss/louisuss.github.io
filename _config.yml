@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Louisus Dev Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dohyun Kim"
-description              : "About recording of my dev skills"
+subtitle                 : "Developer's Site"
+name                     : "Louis"
+description              : "About studying about dev"
 url                      : "https://louisuss.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "louisuss/louisuss.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "louisus1115" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -54,7 +54,7 @@ atom_feed:
   hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : "lunr" # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -100,33 +100,23 @@ author:
   location         : "Seoul, Korea"
   email            : "louisus1115@gmail.com"
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:louisus1115@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:louisus1115@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://louisus.tistory.com/"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/louisuss"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/louisuss"
+    
 
 # Site Footer
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-      # url:
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -134,13 +124,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/louisuss"
-    #- label: "Bitbucket"
-    #  icon: "fab fa-fw fa-bitbucket"
-      # url:
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url:
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/louisuss"
 
 # Reading Files
 include:
