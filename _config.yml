@@ -94,8 +94,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dohyun Kim"
-  avatar           : "/assets/images/logo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Louis"
+  avatar           : "/assets/images/profile_photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Happy Hacking & Life :)"
   location         : "Seoul, Korea"
   email            : "louisus1115@gmail.com"
@@ -108,7 +108,7 @@ author:
       url: "https://github.com/louisuss"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/louisuss"
+      url: "https://www.linkedin.com/in/lousisus/"
     
 
 # Site Footer
