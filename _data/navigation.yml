@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://louisuss.github.io/louisus/about/
+    url: https://louisuss.github.io/about/
   - title: "Posts"
     url: /year-archive/
   #- title: "Sample Collections"
