@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: https://louisuss.github.io/about/
   - title: "Posts"
-    url: /year_archive/
+    url: /posts/
   #- title: "Sample Collections"
   #  url: /collection-archive/
   #- title: "Sitemap"
