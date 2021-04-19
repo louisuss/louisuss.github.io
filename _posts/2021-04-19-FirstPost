@@ -17,5 +17,5 @@ public class BootSpringBootApplication {
 
 test   test
 
-<img src="/assets/profile.jpg"></img>
+<img src="/assets/images/profile_photo.jpg"></img>
 
